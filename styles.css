@@ -138,6 +138,7 @@ h2 {
 
 .box-icon {
     height: 2.5em;
+    margin-left: 5em;
 }
 
 .features-row {
@@ -152,6 +153,7 @@ h2 {
 .features-card {
     text-align: left;
 }
+
 
 .features-card h3 {
     color: #ED1C24;
